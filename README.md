@@ -31,7 +31,6 @@ Weather 7 Day Forcast Model
 * Developed a Weather App using Python and Tkinter that retrieves real-time weather information and 4-day forecast from the OpenWeatherMap API based on user input of city and country. Implemented GUI (Graphical User Interface) to display the weather data and provide options for users to choose between real-time weather and the 7-day forecast. The information is then stored in a CSV file for further analysis. 
 
 ERCOT DA VS RT Basis Model
-
 * A model that shows the basis price between Day Ahead and Real Time pricing in Ercot 
 
 
