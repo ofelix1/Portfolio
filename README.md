@@ -11,11 +11,11 @@ BS Industrial Engineering Technology
 ### Work Experience 
 Real Time Trader @ BP (Oct 2023 - Present)
 
-*Conducted daily market information calls and offered/scheduled power units into the ERCOT day-ahead market, optimizing availability.
-*Managed point-to-point transactions, bilateral trades with customers, and real-time schedule adjustments for unit availability.
-*Dealt with offering ancillary services into the market for both generation and load customers.
-*Modified and updated dispatch models using VBA in Excel to improve operational efficiency.
-*Kept track of ERCOT prices and market conditions, relaying possible unit outages to the team.
+* Conducted daily market information calls and offered/scheduled power units into the ERCOT day-ahead market, optimizing availability.
+* Managed point-to-point transactions, bilateral trades with customers, and real-time schedule adjustments for unit availability.
+* Dealt with offering ancillary services into the market for both generation and load customers.
+* Modified and updated dispatch models using VBA in Excel to improve operational efficiency.
+* Kept track of ERCOT prices and market conditions, relaying possible unit outages to the team.
 
 Real Time Trader @NRG (Jan 2022 - Oct 2023)
 
