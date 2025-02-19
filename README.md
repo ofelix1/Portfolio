@@ -16,7 +16,7 @@ Senior Analyst – Market Strategy @ Entergy (Oct 2024 - Present)
 * Update and maintain VBA code to enhance forecasting models for combined-cycle power plants, improving load predictions and dispatch efficiency.
 * Analyze dispatch curves to identify opportunities for smoother plant operations and reduced peak-hour volatility.
 
-Real Time Trader @ BP (Oct 2023 - Present)
+Real Time Trader @ BP (Oct 2023 - Oct 2024)
 
 * Conducted daily market information calls and offered/scheduled power units into the ERCOT day-ahead market, optimizing availability.
 * Managed point-to-point transactions, bilateral trades with customers, and real-time schedule adjustments for unit availability.
