@@ -1,22 +1,23 @@
 # Senior Analyst – Market Strategy 
-Experienced energy professional specializing in portfolio optimization, driven to enhance expertise in Python, SQL, and Excel. 
+Energy markets professional specializing in portfolio optimization and quantitative analysis, utilizing Python, SQL, and Excel to drive performance and risk insights.
 
 ### Technical Skills: 
 Python, SQL, VBA
 
 ### Education 
+M.S., Data Science | University of Colorado Boulder (Expected Dec 2026)
 B.S., Industrial Engineering Technology | Tarleton State University (2019)
 
 ### Work Experience 
 
-Senior Analyst – Market Strategy @ Entergy (Oct 2024 - Present)
+Market Analyst, Senior Lead  @ Entergy (Oct 2024 - Present)
 
 * Monitor congestion, transmission outages, and nodal pricing in the MISO market using Yes Energy and OASIS, providing feedback on curtailments and negative pricing.
 * Leverage APIs, SQL, and Python to automate data retrieval and develop Power BI reports, delivering insights to support market strategies.
 * Update and maintain VBA code to enhance forecasting models for combined-cycle power plants, improving load predictions and dispatch efficiency.
 * Analyze dispatch curves to identify opportunities for smoother plant operations and reduced peak-hour volatility.
 
-Real Time Trader @ BP (Oct 2023 - Oct 2024)
+Real Time Power Trader @ BP (Oct 2023 - Oct 2024)
 
 * Conducted daily market information calls and offered/scheduled power units into the ERCOT day-ahead market, optimizing availability.
 * Managed point-to-point transactions, bilateral trades with customers, and real-time schedule adjustments for unit availability.
@@ -24,7 +25,7 @@ Real Time Trader @ BP (Oct 2023 - Oct 2024)
 * Modified and updated dispatch models using VBA in Excel to improve operational efficiency.
 * Kept track of ERCOT prices and market conditions, relaying possible unit outages to the team.
 
-Real Time Trader @NRG (Jan 2022 - Oct 2023)
+Real Time Power Trader @NRG (Jan 2022 - Oct 2023)
 
 * Utilize market information, including price, weather, and transmission constraints, to dispatch real-time portfolios and generate positive P&L for third-party clients, demonstrating a strong understanding of energy markets.
 * Utilize and maintain spreadsheets to track energy market trends and portfolio performance, providing insights into market conditions and identifying opportunities for optimization.
